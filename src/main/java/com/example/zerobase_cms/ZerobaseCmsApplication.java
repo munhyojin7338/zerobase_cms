@@ -18,3 +18,16 @@ public class ZerobaseCmsApplication {
     }
 
 }
+
+/*
+spring.mvc.pathmatch.matching-strategy=ant_path_matcher
+feign.okhttp.enabled=true
+
+spring.datasource.url=jdbc:mysql://localhost.com:3306/localhost
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.datasource.username=root
+spring.datasource.password=1234
+
+spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto=create
+ */
